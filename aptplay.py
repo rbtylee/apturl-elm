@@ -1,4 +1,4 @@
-#A file for testing the python apt module
+# A file for testing the python apt module
 
 import apt
 import sys
